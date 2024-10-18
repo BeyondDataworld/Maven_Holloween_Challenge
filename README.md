@@ -14,3 +14,7 @@ The analysis gave the composite score which allowed the following candies to be 
 - Twix
 - 
 The dashboard is made using the Dash library and the visuals used are created from Plotly library of Python.
+
+![Pic1](https://github.com/user-attachments/assets/9abae923-3bc3-4e17-9054-54e8084308a7)
+
+![Pic2](https://github.com/user-attachments/assets/496a9226-eb80-4305-8f7a-c3e5ccdcee28)
