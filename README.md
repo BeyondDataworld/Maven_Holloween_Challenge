@@ -12,4 +12,5 @@ The analysis gave the composite score which allowed the following candies to be 
 - Reese's Peanut Butter Cup
 - Reese Miniatures
 - Twix
+- 
 The dashboard is made using the Dash library and the visuals used are created from Plotly library of Python.
